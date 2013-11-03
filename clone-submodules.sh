@@ -1,7 +1,7 @@
 #!/bin/bash
 
-COGN_LIST=./packages/cognovis-packages.txt
-PO_LIST=./packages/projop-packages.txt
+COGN_LIST=./cognovis-packages.txt
+PO_LIST=./projop-packages.txt
 echo "Clone STARTED:: " >./clone-submodules.log
 echo `date` >>./clone-submodules.log
 for pkg in `cat $PO_LIST`; do
