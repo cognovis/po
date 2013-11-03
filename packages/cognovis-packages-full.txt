@@ -29,5 +29,7 @@ intranet-timesheet2
 intranet-timesheet2-invoices
 intranet-timesheet2-tasks
 intranet-timesheet2-workflow
+intranet-trans-invoices
+intranet-translation
 intranet-workflow
 monitoring
