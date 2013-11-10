@@ -4,9 +4,7 @@ acs-mail-lite
 acs-subsite
 acs-tcl
 acs-workflow
-extjs
 file-storage
-intranet-collmex
 intranet-core
 intranet-cost
 intranet-dw-light
@@ -32,4 +30,3 @@ intranet-timesheet2-workflow
 intranet-trans-invoices
 intranet-translation
 intranet-workflow
-monitoring
