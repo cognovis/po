@@ -29,7 +29,9 @@ intranet-expenses
 intranet-expenses-workflow
 intranet-filestorage
 intranet-mail-import
+intranet-milestone
 intranet-reporting-openoffice
+intranet-reporting-indicators
 intranet-reporting-tutorial
 intranet-resource-management
 intranet-rest
