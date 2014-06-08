@@ -8,6 +8,9 @@ for pkg in `cat $PO_LIST`; do
         echo "$pkg" >>./clone-submodules.log
 #	git submodule add git@github.com:project-open/${pkg}.git packages/$pkg >>./clone-submodules.log 2>&1
 	git submodule add https://github.com/project-open/${pkg}.git packages/$pkg >>./clone-submodules.log 2>&1
+	cd packages/$pkg
+	git checkout tags/v4-1-0-0-0
+	cd ../..
 done
 for pkg in `cat $COGN_LIST`; do
         echo "$pkg" >>./clone-submodules.log
