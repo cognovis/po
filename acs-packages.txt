@@ -1,0 +1,13 @@
+acs-developer-support
+acs-lang
+acs-mail-lite
+acs-subsite
+acs-tcl
+acs-workflow
+extjs
+file-storage
+monitoring
+intranet-dw-light
+intranet-fs
+intranet-openoffice
+intranet-pmo
