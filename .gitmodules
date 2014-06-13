@@ -94,3 +94,33 @@
 [submodule "packages/intranet-workflow"]
 	path = packages/intranet-workflow
 	url = git@github.com:cognovis/intranet-workflow.git
+[submodule "packages/intranet-audit"]
+	path = packages/intranet-audit
+	url = git@github.com:cognovis/intranet-audit.git
+[submodule "packages/intranet-cost-center"]
+	path = packages/intranet-cost-center
+	url = git@github.com:cognovis/intranet-cost-center.git
+[submodule "packages/intranet-earned-value-management"]
+	path = packages/intranet-earned-value-management
+	url = git@github.com:cognovis/intranet-earned-value-management.git
+[submodule "packages/intranet-freelance"]
+	path = packages/intranet-freelance
+	url = git@github.com:cognovis/intranet-freelance.git
+[submodule "packages/intranet-freelance-translation"]
+	path = packages/intranet-freelance-translation
+	url = git@github.com:cognovis/intranet-freelance-translation.git
+[submodule "packages/intranet-freelance-invoices"]
+	path = packages/intranet-freelance-invoices
+	url = git@github.com:cognovis/intranet-freelance-invoices.git
+[submodule "packages/intranet-reporting-dashboard"]
+	path = packages/intranet-reporting-dashboard
+	url = git@github.com:cognovis/intranet-reporting-dashboard.git
+[submodule "packages/intranet-reporting-translation"]
+	path = packages/intranet-reporting-translation
+	url = git@github.com:cognovis/intranet-reporting-translation.git
+[submodule "packages/intranet-reporting-indicators"]
+	path = packages/intranet-reporting-indicators
+	url = git@github.com:cognovis/intranet-reporting-indicators.git
+[submodule "packages/intranet-trans-quality"]
+	path = packages/intranet-trans-quality
+	url = git@github.com:cognovis/intranet-trans-quality.git

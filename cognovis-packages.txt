@@ -1,7 +1,16 @@
+acs-developer-support
+acs-lang
+acs-mail-lite
+acs-subsite
+acs-tcl
+acs-workflow
+file-storage
 intranet-core
 intranet-cost
+intranet-dw-light
 intranet-dynfield
 intranet-forum
+intranet-fs
 intranet-ganttproject
 intranet-helpdesk
 intranet-hr
@@ -16,7 +25,6 @@ intranet-timesheet2
 intranet-timesheet2-invoices
 intranet-timesheet2-tasks
 intranet-timesheet2-workflow
-intranet-trans-invoices
 intranet-translation
+intranet-trans-invoices
 intranet-workflow
-

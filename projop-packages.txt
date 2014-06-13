@@ -10,6 +10,7 @@ acs-events
 acs-kernel
 acs-lang-server
 acs-mail
+acs-mail-lite
 acs-messaging
 acs-reference
 acs-service-contract
