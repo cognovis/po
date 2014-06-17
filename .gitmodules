@@ -259,3 +259,6 @@
 [submodule "packages/xotcl-core"]
 	path = packages/xotcl-core
 	url = git@github.com:cognovis/xotcl-core.git
+[submodule "packages/intranet-cust-fud"]
+	path = packages/intranet-cust-fud
+	url = git@github.com:cognovis/intranet-cust-fud.git
