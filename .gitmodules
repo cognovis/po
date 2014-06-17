@@ -169,9 +169,6 @@
 [submodule "packages/intranet-filestorage"]
 	path = packages/intranet-filestorage
 	url = git@github.com:cognovis/intranet-filestorage.git
-[submodule "packages/intranet-mail-import"]
-	path = packages/intranet-mail-import
-	url = git@github.com:cognovis/intranet-mail-import.git
 [submodule "packages/intranet-milestone"]
 	path = packages/intranet-milestone
 	url = git@github.com:cognovis/intranet-milestone.git
