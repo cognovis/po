@@ -262,3 +262,15 @@
 [submodule "packages/intranet-cust-fud"]
 	path = packages/intranet-cust-fud
 	url = git@github.com:cognovis/intranet-cust-fud.git
+[submodule "packages/intranet-cost-center"]
+	path = packages/intranet-cost-center
+	url = git@github.com:cognovis/intranet-cost-center.git
+[submodule "packages/intranet-reporting-finance"]
+	path = packages/intranet-reporting-finance
+	url = git@github.com:cognovis/intranet-reporting-finance.git
+[submodule "packages/intranet-wiki"]
+	path = packages/intranet-wiki
+	url = git@github.com:cognovis/intranet-wiki.git
+[submodule "packages/wiki"]
+	path = packages/wiki
+	url = git@github.com:cognovis/wiki.git
