@@ -1,2 +1,6 @@
 /update-submodules.log
 /clone-submodules.log
+
+/.ssh/
+/.cache/
+/.bash_history

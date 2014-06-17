@@ -286,3 +286,9 @@
 [submodule "packages/xotcl-request-monitor"]
 	path = packages/xotcl-request-monitor
 	url = git@github.com:cognovis/xotcl-request-monitor.git
+[submodule "packages/intranet-collmex"]
+	path = packages/intranet-collmex
+	url = git@github.com:cognovis/intranet-collmex.git
+[submodule "packages/intranet-cust-kolibri"]
+	path = packages/intranet-cust-kolibri
+	url = git@github.com:cognovis/intranet-cust-kolibri.git
