@@ -34,9 +34,6 @@
 [submodule "packages/intranet-forum"]
 	path = packages/intranet-forum
 	url = git@github.com:cognovis/intranet-forum.git
-[submodule "packages/intranet-fs"]
-	path = packages/intranet-fs
-	url = git@github.com:cognovis/intranet-fs.git
 [submodule "packages/intranet-ganttproject"]
 	path = packages/intranet-ganttproject
 	url = git@github.com:cognovis/intranet-ganttproject.git
@@ -85,18 +82,9 @@
 [submodule "packages/intranet-timesheet2-workflow"]
 	path = packages/intranet-timesheet2-workflow
 	url = git@github.com:cognovis/intranet-timesheet2-workflow.git
-[submodule "packages/intranet-trans-invoices"]
-	path = packages/intranet-trans-invoices
-	url = git@github.com:cognovis/intranet-trans-invoices.git
-[submodule "packages/intranet-translation"]
-	path = packages/intranet-translation
-	url = git@github.com:cognovis/intranet-translation.git
 [submodule "packages/intranet-workflow"]
 	path = packages/intranet-workflow
 	url = git@github.com:cognovis/intranet-workflow.git
-[submodule "packages/intranet-cost-center"]
-	path = packages/intranet-cost-center
-	url = git@github.com:cognovis/intranet-cost-center.git
 [submodule "packages/acs-admin"]
 	path = packages/acs-admin
 	url = git@github.com:cognovis/acs-admin.git
@@ -127,9 +115,6 @@
 [submodule "packages/acs-kernel"]
 	path = packages/acs-kernel
 	url = git@github.com:cognovis/acs-kernel.git
-[submodule "packages/acs-lang-server"]
-	path = packages/acs-lang-server
-	url = git@github.com:cognovis/acs-lang-server.git
 [submodule "packages/acs-mail"]
 	path = packages/acs-mail
 	url = git@github.com:cognovis/acs-mail.git
@@ -181,9 +166,6 @@
 [submodule "packages/intranet-expenses"]
 	path = packages/intranet-expenses
 	url = git@github.com:cognovis/intranet-expenses.git
-[submodule "packages/intranet-expenses-workflow"]
-	path = packages/intranet-expenses-workflow
-	url = git@github.com:cognovis/intranet-expenses-workflow.git
 [submodule "packages/intranet-filestorage"]
 	path = packages/intranet-filestorage
 	url = git@github.com:cognovis/intranet-filestorage.git
@@ -193,42 +175,24 @@
 [submodule "packages/intranet-milestone"]
 	path = packages/intranet-milestone
 	url = git@github.com:cognovis/intranet-milestone.git
-[submodule "packages/intranet-reporting-openoffice"]
-	path = packages/intranet-reporting-openoffice
-	url = git@github.com:cognovis/intranet-reporting-openoffice.git
 [submodule "packages/intranet-reporting-tutorial"]
 	path = packages/intranet-reporting-tutorial
 	url = git@github.com:cognovis/intranet-reporting-tutorial.git
-[submodule "packages/intranet-resource-management"]
-	path = packages/intranet-resource-management
-	url = git@github.com:cognovis/intranet-resource-management.git
-[submodule "packages/intranet-rest"]
-	path = packages/intranet-rest
-	url = git@github.com:cognovis/intranet-rest.git
 [submodule "packages/intranet-search-pg"]
 	path = packages/intranet-search-pg
 	url = git@github.com:cognovis/intranet-search-pg.git
 [submodule "packages/intranet-security-update-client"]
 	path = packages/intranet-security-update-client
 	url = git@github.com:cognovis/intranet-security-update-client.git
-[submodule "packages/intranet-trans-project-wizard"]
-	path = packages/intranet-trans-project-wizard
-	url = git@github.com:cognovis/intranet-trans-project-wizard.git
 [submodule "packages/intranet-update-client"]
 	path = packages/intranet-update-client
 	url = git@github.com:cognovis/intranet-update-client.git
-[submodule "packages/intranet-wiki"]
-	path = packages/intranet-wiki
-	url = git@github.com:cognovis/intranet-wiki.git
 [submodule "packages/notifications"]
 	path = packages/notifications
 	url = git@github.com:cognovis/notifications.git
 [submodule "packages/oacs-dav"]
 	path = packages/oacs-dav
 	url = git@github.com:cognovis/oacs-dav.git
-[submodule "packages/openacs-default-theme"]
-	path = packages/openacs-default-theme
-	url = git@github.com:cognovis/openacs-default-theme.git
 [submodule "packages/ref-countries"]
 	path = packages/ref-countries
 	url = git@github.com:cognovis/ref-countries.git
@@ -256,9 +220,9 @@
 [submodule "packages/xotcl-core"]
 	path = packages/xotcl-core
 	url = git@github.com:cognovis/xotcl-core.git
-[submodule "packages/xotcl-request-monitor"]
-	path = packages/xotcl-request-monitor
-	url = git@github.com:cognovis/xotcl-request-monitor.git
 [submodule "packages/intranet-cust-nts"]
 	path = packages/intranet-cust-nts
 	url = git@github.com:cognovis/intranet-cust-nts.git
+[submodule "packages/extjs"]
+	path = packages/extjs
+	url = git@github.com:cognovis/extjs.git
