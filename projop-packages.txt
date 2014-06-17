@@ -10,7 +10,6 @@ acs-events
 acs-kernel
 acs-lang-server
 acs-mail
-acs-mail-lite
 acs-messaging
 acs-reference
 acs-service-contract
@@ -32,12 +31,12 @@ intranet-filestorage
 intranet-mail-import
 intranet-milestone
 intranet-reporting-openoffice
-intranet-reporting-indicators
 intranet-reporting-tutorial
 intranet-resource-management
 intranet-rest
 intranet-search-pg
 intranet-security-update-client
+intranet-trans-project-wizard
 intranet-update-client
 intranet-wiki
 notifications

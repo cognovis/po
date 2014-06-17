@@ -124,3 +124,165 @@
 [submodule "packages/intranet-trans-quality"]
 	path = packages/intranet-trans-quality
 	url = git@github.com:cognovis/intranet-trans-quality.git
+[submodule "packages/acs-admin"]
+	path = packages/acs-admin
+	url = git@github.com:cognovis/acs-admin.git
+[submodule "packages/acs-api-browser"]
+	path = packages/acs-api-browser
+	url = git@github.com:cognovis/acs-api-browser.git
+[submodule "packages/acs-authentication"]
+	path = packages/acs-authentication
+	url = git@github.com:cognovis/acs-authentication.git
+[submodule "packages/acs-automated-testing"]
+	path = packages/acs-automated-testing
+	url = git@github.com:cognovis/acs-automated-testing.git
+[submodule "packages/acs-bootstrap-installer"]
+	path = packages/acs-bootstrap-installer
+	url = git@github.com:cognovis/acs-bootstrap-installer.git
+[submodule "packages/acs-content-repository"]
+	path = packages/acs-content-repository
+	url = git@github.com:cognovis/acs-content-repository.git
+[submodule "packages/acs-core-docs"]
+	path = packages/acs-core-docs
+	url = git@github.com:cognovis/acs-core-docs.git
+[submodule "packages/acs-datetime"]
+	path = packages/acs-datetime
+	url = git@github.com:cognovis/acs-datetime.git
+[submodule "packages/acs-events"]
+	path = packages/acs-events
+	url = git@github.com:cognovis/acs-events.git
+[submodule "packages/acs-kernel"]
+	path = packages/acs-kernel
+	url = git@github.com:cognovis/acs-kernel.git
+[submodule "packages/acs-lang-server"]
+	path = packages/acs-lang-server
+	url = git@github.com:cognovis/acs-lang-server.git
+[submodule "packages/acs-mail"]
+	path = packages/acs-mail
+	url = git@github.com:cognovis/acs-mail.git
+[submodule "packages/acs-messaging"]
+	path = packages/acs-messaging
+	url = git@github.com:cognovis/acs-messaging.git
+[submodule "packages/acs-reference"]
+	path = packages/acs-reference
+	url = git@github.com:cognovis/acs-reference.git
+[submodule "packages/acs-service-contract"]
+	path = packages/acs-service-contract
+	url = git@github.com:cognovis/acs-service-contract.git
+[submodule "packages/acs-templating"]
+	path = packages/acs-templating
+	url = git@github.com:cognovis/acs-templating.git
+[submodule "packages/acs-translations"]
+	path = packages/acs-translations
+	url = git@github.com:cognovis/acs-translations.git
+[submodule "packages/attachments"]
+	path = packages/attachments
+	url = git@github.com:cognovis/attachments.git
+[submodule "packages/auth-ldap-adldapsearch"]
+	path = packages/auth-ldap-adldapsearch
+	url = git@github.com:cognovis/auth-ldap-adldapsearch.git
+[submodule "packages/bug-tracker"]
+	path = packages/bug-tracker
+	url = git@github.com:cognovis/bug-tracker.git
+[submodule "packages/calendar"]
+	path = packages/calendar
+	url = git@github.com:cognovis/calendar.git
+[submodule "packages/categories"]
+	path = packages/categories
+	url = git@github.com:cognovis/categories.git
+[submodule "packages/diagram"]
+	path = packages/diagram
+	url = git@github.com:cognovis/diagram.git
+[submodule "packages/intranet-bug-tracker"]
+	path = packages/intranet-bug-tracker
+	url = git@github.com:cognovis/intranet-bug-tracker.git
+[submodule "packages/intranet-calendar"]
+	path = packages/intranet-calendar
+	url = git@github.com:cognovis/intranet-calendar.git
+[submodule "packages/intranet-confdb"]
+	path = packages/intranet-confdb
+	url = git@github.com:cognovis/intranet-confdb.git
+[submodule "packages/intranet-exchange-rate"]
+	path = packages/intranet-exchange-rate
+	url = git@github.com:cognovis/intranet-exchange-rate.git
+[submodule "packages/intranet-expenses"]
+	path = packages/intranet-expenses
+	url = git@github.com:cognovis/intranet-expenses.git
+[submodule "packages/intranet-expenses-workflow"]
+	path = packages/intranet-expenses-workflow
+	url = git@github.com:cognovis/intranet-expenses-workflow.git
+[submodule "packages/intranet-filestorage"]
+	path = packages/intranet-filestorage
+	url = git@github.com:cognovis/intranet-filestorage.git
+[submodule "packages/intranet-mail-import"]
+	path = packages/intranet-mail-import
+	url = git@github.com:cognovis/intranet-mail-import.git
+[submodule "packages/intranet-milestone"]
+	path = packages/intranet-milestone
+	url = git@github.com:cognovis/intranet-milestone.git
+[submodule "packages/intranet-reporting-openoffice"]
+	path = packages/intranet-reporting-openoffice
+	url = git@github.com:cognovis/intranet-reporting-openoffice.git
+[submodule "packages/intranet-reporting-tutorial"]
+	path = packages/intranet-reporting-tutorial
+	url = git@github.com:cognovis/intranet-reporting-tutorial.git
+[submodule "packages/intranet-resource-management"]
+	path = packages/intranet-resource-management
+	url = git@github.com:cognovis/intranet-resource-management.git
+[submodule "packages/intranet-rest"]
+	path = packages/intranet-rest
+	url = git@github.com:cognovis/intranet-rest.git
+[submodule "packages/intranet-search-pg"]
+	path = packages/intranet-search-pg
+	url = git@github.com:cognovis/intranet-search-pg.git
+[submodule "packages/intranet-security-update-client"]
+	path = packages/intranet-security-update-client
+	url = git@github.com:cognovis/intranet-security-update-client.git
+[submodule "packages/intranet-trans-project-wizard"]
+	path = packages/intranet-trans-project-wizard
+	url = git@github.com:cognovis/intranet-trans-project-wizard.git
+[submodule "packages/intranet-update-client"]
+	path = packages/intranet-update-client
+	url = git@github.com:cognovis/intranet-update-client.git
+[submodule "packages/intranet-wiki"]
+	path = packages/intranet-wiki
+	url = git@github.com:cognovis/intranet-wiki.git
+[submodule "packages/notifications"]
+	path = packages/notifications
+	url = git@github.com:cognovis/notifications.git
+[submodule "packages/oacs-dav"]
+	path = packages/oacs-dav
+	url = git@github.com:cognovis/oacs-dav.git
+[submodule "packages/openacs-default-theme"]
+	path = packages/openacs-default-theme
+	url = git@github.com:cognovis/openacs-default-theme.git
+[submodule "packages/ref-countries"]
+	path = packages/ref-countries
+	url = git@github.com:cognovis/ref-countries.git
+[submodule "packages/ref-language"]
+	path = packages/ref-language
+	url = git@github.com:cognovis/ref-language.git
+[submodule "packages/ref-timezones"]
+	path = packages/ref-timezones
+	url = git@github.com:cognovis/ref-timezones.git
+[submodule "packages/rss-support"]
+	path = packages/rss-support
+	url = git@github.com:cognovis/rss-support.git
+[submodule "packages/search"]
+	path = packages/search
+	url = git@github.com:cognovis/search.git
+[submodule "packages/simple-survey"]
+	path = packages/simple-survey
+	url = git@github.com:cognovis/simple-survey.git
+[submodule "packages/workflow"]
+	path = packages/workflow
+	url = git@github.com:cognovis/workflow.git
+[submodule "packages/xml-rpc"]
+	path = packages/xml-rpc
+	url = git@github.com:cognovis/xml-rpc.git
+[submodule "packages/xotcl-core"]
+	path = packages/xotcl-core
+	url = git@github.com:cognovis/xotcl-core.git
+[submodule "packages/xotcl-request-monitor"]
+	path = packages/xotcl-request-monitor
+	url = git@github.com:cognovis/xotcl-request-monitor.git
