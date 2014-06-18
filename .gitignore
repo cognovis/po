@@ -7,5 +7,7 @@
 
 *.orig
 
+/www/logo.png
+www/logo.png
 /.psql_history
 /.*
