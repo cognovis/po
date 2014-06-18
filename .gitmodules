@@ -259,3 +259,9 @@
 [submodule "packages/xotcl-core"]
 	path = packages/xotcl-core
 	url = git@github.com:cognovis/xotcl-core.git
+[submodule "packages/intranet-collmex"]
+	path = packages/intranet-collmex
+	url = git@github.com:cognovis/intranet-collmex.git
+[submodule "packages/intranet-cust-flyhh"]
+	path = packages/intranet-cust-flyhh
+	url = git@github.com:cognovis/intranet-cust-flyhh.git
