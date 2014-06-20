@@ -259,3 +259,15 @@
 [submodule "packages/xotcl-core"]
 	path = packages/xotcl-core
 	url = git@github.com:cognovis/xotcl-core.git
+[submodule "packages/intranet-collmex"]
+	path = packages/intranet-collmex
+	url = git@github.com:cognovis/intranet-collmex.git
+[submodule "packages/intranet-resource-management"]
+	path = packages/intranet-resource-management
+	url = git@github.com:cognovis/intranet-resource-management.git
+[submodule "packages/monitoring"]
+	path = packages/monitoring
+	url = git@github.com:cognovis/monitoring.git
+[submodule "packages/xowiki"]
+	path = packages/xowiki
+	url = git@github.com:cognovis/xowiki.git
