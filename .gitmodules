@@ -271,3 +271,6 @@
 [submodule "packages/xowiki"]
 	path = packages/xowiki
 	url = git@github.com:cognovis/xowiki.git
+[submodule "packages/views"]
+	path = packages/views
+	url = git@github.com:cognovis/views.git
