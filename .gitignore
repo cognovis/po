@@ -4,3 +4,6 @@
 /.ssh/
 /.cache/
 /.bash_history
+
+/.psql_history
+/kolibri.dmp.gz
