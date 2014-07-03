@@ -274,3 +274,6 @@
 [submodule "packages/views"]
 	path = packages/views
 	url = git@github.com:cognovis/views.git
+[submodule "packages/intranet-mail"]
+	path = packages/intranet-mail
+	url = git@github.com:cognovis/intranet-mail
