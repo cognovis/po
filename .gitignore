@@ -9,3 +9,7 @@
 /kolibri.dmp.gz
 
 /.lesshst
+
+/filestorage/templates/*
+
+/filestorage/projects/
