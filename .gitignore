@@ -5,5 +5,5 @@
 /.psql_history
 /.cache/
 /.bash_history
-
+/content-repository-content-files/*
 /filestorage/templates/Kreditorengutschrift.en.odt
