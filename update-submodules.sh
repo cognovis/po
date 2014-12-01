@@ -9,3 +9,5 @@ for pkg in `ls -d */`; do
 	git pull origin master  >>../../update-submodules.log 2>&1
         cd ..
 done
+echo "Update ENDED:: " >./update-submodules.log
+echo `date` >>./update-submodules.log
