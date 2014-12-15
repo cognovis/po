@@ -1,15 +1,15 @@
-/update-submodules.log
-/clone-submodules.log
+Bupdate-submodules.log
+clone-submodules.log
 /.ssh/
 /.cache/
 /.bash_history
-/files/keepalive/dbtest
-/files/keepalive/keepalive-config.tcl
+files/keepalive/*
+/files/keepalive/*
 *.orig
-
+*keepalive*
 /www/logo.png
 www/logo.png
 /.psql_history
 /.*
-/update-code.log
+update-code.log
 
