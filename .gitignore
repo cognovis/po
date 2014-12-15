@@ -1,6 +1,5 @@
 /update-submodules.log
 /clone-submodules.log
-
 /.ssh/
 /.cache/
 /.bash_history
@@ -12,3 +11,5 @@ www/logo.png
 /.psql_history
 /.*
 /update-code.log
+/*.log
+
