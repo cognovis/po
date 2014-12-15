@@ -6,10 +6,10 @@
 # on even indices and the commands to execute if the server doesn't respond
 # on odd indices, like this:
 # {server_url1 restart_command1 server_url2 restart_command2 ...}
-set servers_to_monitor {http://yourserver.com "svc -du /etc/service/projop"}
+set servers_to_monitor {http://nts.sussdorff.org "svc -du /etc/service/nts"}
 
 # How long the keepalive script waits until it attempts another restart
-set seconds_between_restarts [expr {10*60}]
+set seconds_between_restarts [expr {5*60}]
 
 # Who shall we email if the server is/cannot be restarted?
-set mailto root
+set mailto sussdorff@sussdorff.de
