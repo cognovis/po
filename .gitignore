@@ -3,7 +3,7 @@
 /.ssh/
 /.cache/
 /.bash_history
-
+/files/keepalive/dbtest
 *.orig
 
 /www/logo.png
@@ -11,5 +11,4 @@ www/logo.png
 /.psql_history
 /.*
 /update-code.log
-/*.log
 
