@@ -4,12 +4,11 @@
 /.ssh/
 /.cache/
 /.bash_history
-
+/content-repository-content-files/*
 /.psql_history
 /kolibri.dmp.gz
 
 /.lesshst
 
-/filestorage/templates/*
+/filestorage/*
 
-/filestorage/projects/
