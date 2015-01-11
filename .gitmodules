@@ -223,3 +223,6 @@
 [submodule "packages/extjs"]
 	path = packages/extjs
 	url = git@github.com:cognovis/extjs.git
+[submodule "packages/monitoring"]
+	path = packages/monitoring
+	url = git@github.com:cognovis/monitoring.git
