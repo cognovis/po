@@ -12,4 +12,6 @@ www/logo.png
 /.psql_history
 /.*
 update-code.log
-
+nts-dev.dmp
+nts-new.dmp
+update-submodules.log
