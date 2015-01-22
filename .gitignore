@@ -15,3 +15,4 @@ update-code.log
 nts-dev.dmp
 nts-new.dmp
 update-submodules.log
+update-submodules.sh
