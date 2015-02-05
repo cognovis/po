@@ -274,3 +274,6 @@
 [submodule "packages/wiki"]
 	path = packages/wiki
 	url = git@github.com:cognovis/wiki.git
+[submodule "packages/monitoring"]
+	path = packages/monitoring
+	url = git@github.com:cognovis/monitoring.git
