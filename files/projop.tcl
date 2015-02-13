@@ -164,7 +164,7 @@ ns_section ns/server/${server}
 #---------------------------------------------------------------------
 ns_section ns/server/${server}/adp 
     ns_param   map                /*.adp    ;# Extensions to parse as ADP's 
-#    ns_param   map                "/*.html" ;# Any extension can be mapped 
+    ns_param   map                "/*.html" ;# Any extension can be mapped 
     ns_param   enableexpire       false     ;# Set "Expires: now" on all ADP's 
     ns_param   enabledebug        $debug    ;# Allow Tclpro debugging with "?debug"
     ns_param   defaultparser      fancy
