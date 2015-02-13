@@ -531,7 +531,7 @@ ns_section ns/server/${server}/modules
     ns_param libthread  [lindex [glob ${homedir}/lib/thread*/libthread*[info sharedlibextension]] 0]
     ns_limits set default -maxupload [ns_config ns/server/${server}/module/nssock maxinput]
 
-    ns_param  nsimap    ${bindir}/nsimap.so
+#    ns_param  nsimap    ${bindir}/nsimap.so
 
 ns_log notice "nsd.tcl: using threadsafe tcl: [info exists tcl_platform(threaded)]"
 ns_log notice "nsd.tcl: finished reading config file."
