@@ -268,9 +268,6 @@
 [submodule "packages/sencha-core"]
 	path = packages/sencha-core
 	url = ssh://git@git.cognovis.de:2220/project-open/sencha-core.git
-[submodule "packages/sencha-extjs-v421"]
-	path = packages/sencha-extjs-v421
-	url = ssh://git@git.cognovis.de:2220/project-open/sencha-extjs-v421.git
 [submodule "packages/intranet-mail"]
 	path = packages/intranet-mail
 	url = git@github.com:cognovis/intranet-mail.git
