@@ -259,3 +259,33 @@
 [submodule "packages/xotcl-core"]
 	path = packages/xotcl-core
 	url = git@github.com:cognovis/xotcl-core.git
+[submodule "packages/extjs"]
+	path = packages/extjs
+	url = git@github.com:cognovis/extjs.git
+[submodule "packages/intranet-mail-import"]
+	path = packages/intranet-mail-import
+	url = git@github.com:cognovis/intranet-mail-import.git
+[submodule "packages/intranet-resource-management"]
+	path = packages/intranet-resource-management
+	url = git@github.com:cognovis/intranet-resource-management.git
+[submodule "packages/intranet-portfolio-planner"]
+	path = packages/intranet-portfolio-planner
+	url = git@github.com:cognovis/intranet-portfolio-planner.git
+[submodule "packages/intranet-wiki"]
+	path = packages/intranet-wiki
+	url = git@github.com:cognovis/intranet-wiki.git
+[submodule "packages/intranet-xowiki"]
+	path = packages/intranet-xowiki
+	url = git@github.com:project-open/intranet-xowiki.git
+[submodule "packages/xowiki"]
+	path = packages/xowiki
+	url = git@github.com:project-open/xowiki.git
+[submodule "packages/general-comments"]
+	path = packages/general-comments
+	url = git@github.com:project-open/general-comments.git
+[submodule "packages/tsearch2-driver"]
+	path = packages/tsearch2-driver
+	url = git@github.com:project-open/tsearch2-driver.git
+[submodule "packages/intranet-portfolio-management"]
+	path = packages/intranet-portfolio-management
+	url = git@github.com:project-open/intranet-portfolio-management.git
