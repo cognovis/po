@@ -288,4 +288,7 @@
 	url = git@github.com:project-open/tsearch2-driver.git
 [submodule "packages/intranet-portfolio-management"]
 	path = packages/intranet-portfolio-management
-	url = git@github.com:project-open/intranet-portfolio-management.git
+	url = git@github.com:cognovis/intranet-portfolio-management.git
+[submodule "packages/intranet-planning"]
+	path = packages/intranet-planning
+	url = git@github.com:cognovis/intranet-planning.git

@@ -2,3 +2,5 @@
 /clone-submodules.log
 /.*
 /*.log
+content-repository-content-files
+demo-pmo.dmp
