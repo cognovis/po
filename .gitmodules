@@ -274,3 +274,6 @@
 [submodule "packages/views"]
 	path = packages/views
 	url = git@github.com:cognovis/views.git
+[submodule "packages/intranet-chilkat"]
+	path = packages/intranet-chilkat
+	url = git@gitlab.com:cognovis/intranet-chilkat.git
