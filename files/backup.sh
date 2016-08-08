@@ -14,7 +14,7 @@
 #
 
 SERVICE=projop
-COMPUTER=yourserver.net              # name of this computer
+COMPUTER=registration.flying-hamburger.de
 DBHOST=localhost                     # name of the computer running the database
 BACKUPUSER=backup                    # username to own the files
 BACKUPDIR=/backup/$SERVICE         # where to store the backups
